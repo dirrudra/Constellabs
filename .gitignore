@@ -1,0 +1,24 @@
+# Ignore JSON and PDF output directories
+ResumePdfToJsonOrCsv/json/output/
+ResumePdfToJsonOrCsv/pdfs/classResumes/
+
+# Ignore node_modules directories
+llm-resume/node_modules/
+llm-resume/template/node_modules/
+template/node_modules/
+pdf-summarizer/nextjs/node_modules/
+pdf-summarizer/nodejs/node_modules/
+pdf-summarizer/template/node_modules/
+resume-summarizer/node_modules/
+testing/file-upload/node_modules/
+
+llmResume/ResumePdfToJsonOrCsv/
+
+# Ignore .next build directory
+llm-resume/.next/
+
+# Ignore environment files
+template/env
+
+# Ignore unisys directory
+unisys/

@@ -1,0 +1,71 @@
+M Mohammed Zaid
+career.zaid@gmail.com |+91 75500 56008 |github.com/profzaid007 |linkedin.com/in/mohammedzaidm 
+EDUCATION
+Bachelor of Engineering(B.E) Computer Science, 
+Chennai Institute Of Technology CGPA: 8.5
+PROJECTS
+Auther - NextJS, Prisma, Clerk, ShadcnUI
+•Developing a modular authentication micro-service using Next.js, Auth.js Clerk, and Prisma,with remote PostgreSQL
+database (Neon DB), implemented user signup/login and administrative features, with future plans for email
+confirmation, password reset, and two-factor authentication, focus is on scalability and production.
+•Aiming to support up to 1000 users concurrently with performance and reliability.
+•https://github.com/profzaid007/auth-template
+ParseCV - NLP, Streamlit, Numpy, Pandas
+•An NLP-powered tool using Streamlit, Numpy, and Pandas to efficiently extract and organize data from resumes into a
+structured CSV, within a latent accuracy of 75% in data extraction.
+•Visualizations such as Word Cloud to streamline resume analysis, enhancing the candidate selection process.
+•https://github.com/profzaid007/resumedataparser
+Unisys - Drugs awareness platform + ChatBOT, NextJS, Unreal Engine 5, Flask, BlenderBot
+•Developed a drugs awareness platform with an integrated ChatBOT using Next.js, Flask, and BlenderBot
+•Implemented Facebook distill bot with custom training sets and achieved 80% reduced memory allocation through
+efficient input mapping, while maintaining 60% fidelity.
+•https://github.com/Harish-M-2003/unisys
+PortPDF - NextJS, Ollama, PyPDF2, JSON
+•Trained an LLM (Codellama) on portfolio websites and implemented an API for prompt calls and returns.
+•Extracted resumes content in .pdf and converted to .json with 80% accuracy using Flask and HuggingFace.
+•Generated customized portfolio websites based on resume data and themed styles in HTML/CSS and JS.
+•https://github.com/dirrudra/LLMResume
+INTERNSHIPS
+Full-Stack Developer - Intern, RPZ Enterprises
+•Led the creation of scalable REST APIs using MVC architecture, PostgreSQL, and ExpressJS
+•Streamlined web application deployment on Vercel and OnRender platforms, integrating with remote PostgreSQL
+databases for improved accessibility by a margin of 45% during deployment.
+Full Stack Developer - Intern, Veeral Enterprises
+•Worked on Static Site Rendering using HTML, CSS, and Bootstrap, resulting in optimized website performance and a
+notable 30% reduction in loading time, significantly improving user experience and navigation efficiency.
+•Implemented a seamless user experience by leveraging Django's MVT framework, integrating forms and an admin
+panel into modular templates for dynamic web functionality.
+SKILLS
+Languages
+JAVA, Python, JavaScript, Typescript
+AI/ML
+Ollama, Stable Diffusion, StreamlitWeb Dev
+NodeJS, ExpressJS, Prisma, NextJS, 
+PostgreSQL, Supabase, ReactJS, 
+PicoCSS, TailwindCSSMiscellaneous
+Linux,PocketBase, Blender, 
+MongoDB, Bootstrap, Sanity CMS, 
+VIM,DaisyUI, ShadcnUI, 
+COMPETITIVE CODING
+•LeetCode: Secured Top 70.93% Contest Rating 1429 
+and Solved 527 problems - leetcode.com/u/Zaidi007
+•CodeChef: Secured Contest Rating of 1391 with Global 
+Rank of 48366 - codechef.com/users/codezaidprof
+•CodeForces: Secured Contest Rating of 922 with 60+ 
+submissions B - codeforces.com/profile/zaid007CERTIFICATIONS
+•Back-End Apps with Node.js and Express (IBM)
+•Web Development with HTML, CSS, JavaScript (IBM)
+•Introduction to Cloud Computing (IBM)
+•Front-End Apps with React (IBM)
+•CCNA v1 & CCNA v2 CyberSecurity Training [CISCO]
+ACHIEVEMENTS
+Smart India Hackathon 2023 - Winner, SIH 1411 - Ministry of Home Affairs                                                              Dec 2023
+•Developed an VR simulation system using Unreal Engine 5 and Blender, addressing counter hijacking systems and air
+marshal operations, endorsed by the Ministry of Home Affairs. Role:3D Blender Modeller
+Analysis of Time and Space Complexity of Array, Linked List and Linked Array(hybrid) in Linear Search 
+Operation - Research Paper, https://ieeexplore.ieee.org/document/10028872
+•Conducted a comprehensive analysis comparing time and space complexities of linear search operations across array,
+linked list, and the pioneering Linked Array structure, showcasing its nature and performance.
+2021 – present | Chennai
+Jul 2023 – Dec 2023 | Chennai
+Jun 2023 – Aug 2023 | Chennai

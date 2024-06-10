@@ -1,0 +1,426 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rudrakumar Balakumar</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2, h3 {
+            color: #333;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+
+        h3 {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+
+        .skills-list {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .skill {
+            margin: 5px;
+            padding: 8px 15px;
+            background-color: #eee;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .skill:hover {
+            background-color: #ddd;
+        }
+
+        .internship {
+            margin-bottom: 10px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .internship-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .internship-details {
+            margin-bottom: 5px;
+        }
+
+        .internship-description {
+            margin-bottom: 5px;
+        }
+
+        .project {
+            margin-bottom: 10px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .project-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .project-link {
+            margin-bottom: 5px;
+        }
+
+        .achievement {
+            margin-bottom: 10px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .achievement-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .certificate {
+            margin-bottom: 10px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .certificate-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .contact-info {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .contact-info p {
+            margin-bottom: 5px;
+        }
+
+        /* Animation */
+        .animate-fade-in {
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container animate-fade-in">
+        <h1>Rudrakumar Balakumar</h1>
+        <h2>Full-Stack Developer & 3D Artist</h2>
+
+        <div class="section">
+            <h2>Profile</h2>
+            <ul>
+                <li>Good team player</li>
+                <li>Adaptive to new trends or changes</li>
+                <li>Skilled public speaker</li>
+                <li>Event hosting experience</li>
+                <li>Focused on learning</li>
+                <li>Applies learned knowledge in various domains</li>
+                <li>Versatile</li>
+                <li>Good communicator</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <ul>
+                <li>
+                    <h3>B.E Computer Science and Engineering</h3>
+                    Chennai Institute of Technology, Chennai, India
+                </li>
+                <li>
+                    <h3>Higher Secondary Education</h3>
+                    Lalaji Memorial Omega International School, Chennai, India
+                </li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Skills</h2>
+            <div class="skills-list">
+                <div class="skill">Python</div>
+                <div class="skill">Java</div>
+                <div class="skill">JavaFX</div>
+                <div class="skill">HTML/CSS</div>
+                <div class="skill">C/C++</div>
+                <div class="skill">JavaScript</div>
+                <div class="skill">GO lang</div>
+                <div class="skill">TypeScript</div>
+                <div class="skill">Blender 3D</div>
+                <div class="skill">Unreal Engine 5</div>
+                <div class="skill">Davinci Resolve 17</div>
+                <div class="skill">Google Suite</div>
+                <div class="skill">Microsoft Office</div>
+                <div class="skill">Metamask</div>
+                <div class="skill">GIMP</div>
+                <div class="skill">Krita</div>
+                <div class="skill">MySQL</div>
+                <div class="skill">Django</div>
+                <div class="skill">ReactJS</div>
+                <div class="skill">NodeJS</div>
+                <div class="skill">ExpressJS</div>
+                <div class="skill">NextJS</div>
+                <div class="skill">Supabase</div>
+                <div class="skill">StreamLit</div>
+                <div class="skill">Firebase</div>
+                <div class="skill">Teamwork</div>
+                <div class="skill">Basic Accounting</div>
+                <div class="skill">Communication Skills</div>
+                <div class="skill">Contract Negotiation</div>
+                <div class="skill">Decision Making</div>
+                <div class="skill">Fast Learner</div>
+                <div class="skill">Situational Awareness</div>
+                <div class="skill">Lateral Thinking</div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Internships</h2>
+            <div class="internship">
+                <div class="internship-title">Fullstack Developer</div>
+                <div class="internship-details">RPZ Enterprises | 05/2023 – 07/2023 | Chennai, India</div>
+                <div class="internship-description">
+                    <ul>
+                        <li>Founded a small organization, delivering dynamic websites to local businesses as a summer project/internship.</li>
+                        <li>Focused on framework integration, API utilization from diverse tools, and project management during the internship.</li>
+                        <li>Provided comprehensive web solutions while honing skills in API integration and project coordination.</li>
+                        <li>Managed business operations and cultivated client relationships, ensuring satisfaction and retention of local businesses.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="internship">
+                <div class="internship-title">Fullstack & AR/VR developer</div>
+                <div class="internship-details">Veerel Enterprises | 06/2023 – 08/2023 | Chennai, India</div>
+                <div class="internship-description">
+                    <ul>
+                        <li>Developed a dynamic webpage with real-time functionality and payment transaction capabilities during a summer internship.</li>
+                        <li>Created a dedicated virtual environment enabling exploration of multiple real-world emulated locations and architectural structures.</li>
+                        <li>Combined web development skills with virtual environment creation for a comprehensive project experience.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="internship">
+                <div class="internship-title">Junior 3D Engineer</div>
+                <div class="internship-details">Lux and Decibels | 02/2023 – 03/2023</div>
+                <div class="internship-description">
+                    <ul>
+                        <li>Tasked with creating and manipulating 3D objects.</li>
+                        <li>Created virtual environments and implemented blueprints.</li>
+                        <li>Simulated an animated objects for presentation of VR Environment.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Projects</h2>
+            <div class="project">
+                <div class="project-title">DnD - Social Networking Web App</div>
+                <div class="project-link"><a href="https://github.com/dirrudra/DnD_Deploy" target="_blank">https://github.com/dirrudra/DnD_Deploy</a></div>
+                <div class="project-description">
+                    <ul>
+                        <li>A social networking app for collaborating and creating stories.</li>
+                        <li>Allows users to create and join sessions.</li>
+                        <li>Authentication and DBMS session calling.</li>
+                        <li>Implementing Gen AI to help create dynamic imagery and conversational assistance</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="project">
+                <div class="project-title">Virtual Reality-Based Training for Air Marshalling Operations</div>
+                <div class="project-description">
+                    <ul>
+                        <li>SIH 1411</li>
+                        <li>A small AR/VR training simulator that is used to train air marshals and security officers.</li>
+                        <li>1st place winner at SIH 2023</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="project">
+                <div class="project-title">Unisys - Drugs awareness platform + ChatBOT</div>
+                <div class="project-description">
+                    <ul>
+                        <li>A platform designed with the intent of emulating adverse effects of narcotics and providing a support system with an GenAI chatbot interface to improve efficiency of user experience and retention.</li> 
+                    </ul>
+                </div>
+            </div>
+            <div class="project">
+                <div class="project-title">Movie Review Analysis</div>
+                <div class="project-link"><a href="https://github.com/dirrudra/Streamlit.git" target="_blank">https://github.com/dirrudra/Streamlit.git</a></div>
+                <div class="project-description">
+                    <ul>
+                        <li>A streamlit project that marks the introduction to data science and data analytics projects.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="project">
+                <div class="project-title">Misinformation Detector</div>
+                <div class="project-link"><a href="https://github.com/dirrudra/ImageGalleryDJ.git" target="_blank">https://github.com/dirrudra/ImageGalleryDJ.git</a></div>
+                <div class="project-description">
+                    <ul>
+                        <li>A small project that detects misinformation on social media using adaptive AI methods and string and character operations.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Achievements</h2>
+            <div class="achievement">
+                <div class="achievement-title">SIH Finalist and 1st Place Winner</div>
+                <div class="achievement-description">
+                    <ul>
+                        <li>Participated and Competed in the National Level Hackathon SIH and won 1st place in the problem statment SIH1411</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="achievement">
+                <div class="achievement-title">LeetCode</div>
+                <div class="achievement-description">
+                    <ul>
+                        <li>Successfully completed 553 LeetCode problems and achieved the rank of 71,759th globally</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="achievement">
+                <div class="achievement-title">LeetCode</div>
+                <div class="achievement-description">
+                    <ul>
+                        <li>Successfully complete the Binary Search Roadmap and the MySQL roadmap on LeetCode</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="achievement">
+                <div class="achievement-title">Vice Chairperson of UN Women committee in MVM 22"</div>
+                <div class="achievement-description">
+                    <ul>
+                        <li>Successfully coordinated and co-hosted a committee about Women in social media for Model UN Women.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Certificates</h2>
+            <div class="certificate">
+                <div class="certificate-title">IBM - Introduction to Cloud</div>
+            </div>
+            <div class="certificate">
+                <div class="certificate-title">IBM - Python for Data Science, AI & Development</div>
+            </div>
+            <div class="certificate">
+                <div class="certificate-title">CCNAv7: Introduction to Networks</div>
+            </div>
+            <div class="certificate">
+                <div class="certificate-title">IBM - Django Application Development with SQL and Databases</div>
+            </div>
+            <div class="certificate">
+                <div class="certificate-title">IBM - Developing Front-End Apps with React</div>
+            </div>
+            <div class="certificate">
+                <div class="certificate-title">CCNAv7: Switching, Routing, and Wireless Essentials</div>
+            </div>
+            <div class="certificate">
+                <div class="certificate-title">IBM - Introduction to Web Development with HTML, CSS, JavaScript</div>
+            </div>
+            <div class="certificate">
+                <div class="certificate-title">IBM - Developing Back-End Apps with Node.js and Express</div>
+            </div>
+            <div class="certificate">
+                <div class="certificate-title">UiPath Citizen Developer certificate</div>
+            </div>
+        </div>
+
+        <div class="contact-info">
+            <p>Rudrakumar Balakumar</p>
+            <p>dir.rudra@gmail.com</p>
+            <p>+919962481816</p>
+            <p>rudrakumarb</p>
+        </div>
+    </div>
+</body>
+</html>
+```
+
+**Explanation:**
+
+- **HTML Structure:** The HTML is organized into sections for Profile, Education, Skills, Internships, Projects, Achievements, Certificates, and Contact Information.
+- **CSS Styling:**  
+    - Basic styling for fonts, colors, spacing, and overall layout.
+    -  Styles for the `skills-list`, `internship`, `project`, `achievement`, and `certificate` elements.
+    -  A `contact-info` section for contact details.
+- **Animation:** 
+    -  A simple fade-in animation using CSS `@keyframes` to make the content appear smoothly. The `animate-fade-in` class is applied to the container element.
+- **Content:** The content is provided in a structured format within the HTML. 
+
+**Key Points:**
+
+- **Clean and Organized:** The code is well-formatted and easy to understand.
+- **Semantic HTML:** Appropriate HTML tags are used for structure and meaning (e.g., `<h1>`, `<h2>`, `<ul>`, `<li>`).
+- **CSS Classes:** Classes are used for styling, making it easy to maintain and reuse styles.
+- **Responsive Design:**  The code doesn't specifically address responsiveness, but you can add media queries to adapt the layout for different screen sizes.
+
+Remember to add your actual content and tailor the styling to your preferences! 

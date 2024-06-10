@@ -1,0 +1,322 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pawan Kalyan's Portfolio</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .content h3 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+
+        .content p {
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+
+        .content ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .content li {
+            margin-bottom: 5px;
+        }
+
+        .content a {
+            color: #333;
+            text-decoration: none;
+        }
+
+        .content a:hover {
+            text-decoration: underline;
+        }
+
+        .social-links {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .social-links a {
+            display: inline-block;
+            margin: 0 10px;
+            font-size: 24px;
+            color: #333;
+            transition: color 0.3s ease;
+        }
+
+        .social-links a:hover {
+            color: #007bff;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        /* Animation */
+        .section-title {
+            animation: fadeInUp 1s ease;
+        }
+
+        .content {
+            animation: fadeInUp 1s ease;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>B PAWAN KALYAN</h1>
+    </header>
+
+    <div class="container">
+        <div class="content">
+            <h3>Phone</h3>
+            <p>Alt+91 9345355391</p>
+            <h3>Email</h3>
+            <p><a href="mailto:jEnvelopepkworkmail2023@gmail.com">jEnvelopepkworkmail2023@gmail.com</a></p>
+            <h3>Social Links</h3>
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/pawankalyan3/" target="_blank">jLINKEDINpawankalyan3</a>
+                <a href="https://github.com/Pawankalyan2023" target="_blank">jGithubPawankalyan2023</a>
+                <a href="#" target="_blank">jGLOBEPkportfolio</a>
+            </div>
+        </div>
+
+        <div class="section-title">
+            <h2>EDUCATION</h2>
+        </div>
+
+        <div class="content">
+            <h3>Bachelor of Technology in Information Technology</h3>
+            <p>Sep 2021 - Jul 2025</p>
+            <p>Chennai Institute of Technology, Chennai, India</p>
+            <p>CGPA: 8.85</p>
+        </div>
+
+        <div class="section-title">
+            <h2>WORK EXPERIENCE</h2>
+        </div>
+
+        <div class="content">
+            <h3>Aivirex Innovation</h3>
+            <p>Jul 2023 - Oct 2023</p>
+            <p>Web Developer Intern (Front-end Development)</p>
+            <ul>
+                <li>Transformed operational efficiency through pioneering optimization methods, driving a remarkable 75% surge.</li>
+                <li>Maximized interaction by 25% and optimized app through UI design by utilizing HTML, CSS, JS, and Bootstrap.</li>
+            </ul>
+            <p>Projects Live: SpearHeadersSpearHeadersSpearHeadersSpearHeadersSpearHeadersSpearHeadersSpearHeadersSpearHeadersSpearHeadersSpearHeadersSpearHeadersSpearHeadersSpearHeadersSpearHeadersSpearHeadersSpearHeadersSpearHeaders</p>
+            <p>GitHub: AivirexAivirexAivirexAivirexAivirexAivirexAivirexAivirexAivirexAivirexAivirexAivirexAivirexAivirexAivirexAivirexAivirex</p>
+        </div>
+
+        <div class="content">
+            <h3>LetsGrowMore</h3>
+            <p>Jun 2023 - Jul 2023</p>
+            <p>Web Developer Intern (Front & Back-end Development)</p>
+            <ul>
+                <li>Revamped securing 4.5/5 user rating, implemented HTML, CSS, JS, PHP, MySQL, XAMPP, yielding 40% heightened user interaction.</li>
+                <li>Reduced 25% bounce rates, fostering 30% longer sessions with a 20% upsurge in conversion rates.</li>
+            </ul>
+            <p>GitHub: lGMlGMlGMlGMlGMlGMlGMlGMlGMlGMlGMlGMlGMlGMlGMlGMlGM</p>
+        </div>
+
+        <div class="content">
+            <h3>Oasis Infobyte</h3>
+            <p>Jun 2023 - Jul 2023</p>
+            <p>Application Developer Intern</p>
+            <ul>
+                <li>Amplified the app's responsiveness by an impressive 60% through optimization and fine-tuning of Flutter through Material UI widgets.</li>
+                <li>Boosted productivity by 50% leveraging Flutters hot reload feature.</li>
+            </ul>
+            <p>GitHub: OasisOasisOasisOasisOasisOasisOasisOasisOasisOasisOasisOasisOasisOasisOasisOasisOasis</p>
+        </div>
+
+        <div class="section-title">
+            <h2>PROJECTS</h2>
+        </div>
+
+        <div class="content">
+            <h3>ACLMS : E-Learning Application</h3>
+            <p>Dec 2023 - Feb 2024</p>
+            <ul>
+                <li>Optimized GraphQL with Hygraph for 40% faster content loading.</li>
+                <li>Reinforced security via OAuth, cutting unauthorized access risk by 25%, broadening user outreach by 70% with Expo.</li>
+            </ul>
+            <p>Tools: React Native, Expo CLI, Clerk, GraphQL, Hygraph, OAuth, Docker.</p>
+            <p>GitHub: ACLMSACLMSACLMSACLMSACLMSACLMSACLMSACLMSACLMSACLMSACLMSACLMSACLMSACLMSACLMSACLMSACLMS</p>
+        </div>
+
+        <div class="content">
+            <h3>Code Calendar</h3>
+            <p>Dec 2023 - Jan 2024</p>
+            <ul>
+                <li>Achieved 83% data latency reduction, surpassing 80% accuracy with 87% accuracy rate.</li>
+                <li>Elevated user engagement by 70%, coupled with a 40% reduction in reliance for faster, reliable data retrieval.</li>
+            </ul>
+            <p>Tools: React, Express, Node, Clerk, Flowbite, Clist.by, Docker, Vercel, Render.</p>
+            <p>Project Live: Code CalendarCode CalendarCode CalendarCode CalendarCode CalendarCode CalendarCode CalendarCode CalendarCode CalendarCode CalendarCode CalendarCode CalendarCode CalendarCode CalendarCode CalendarCode Calendar</p>
+            <p>GitHub: CodeCalendarCodeCalendarCodeCalendarCodeCalendarCodeCalendarCodeCalendarCodeCalendarCodeCalendarCodeCalendarCodeCalendarCodeCalendarCodeCalendarCodeCalendarCodeCalendarCodeCalendarCodeCalendar</p>
+        </div>
+
+        <div class="content">
+            <h3>OETS : Track E-Commerce Orders With Google Maps Delivery Integration</h3>
+            <p>Mar 2022 - Feb 2023</p>
+            <ul>
+                <li>Realized a robust 30% server response, 50% application scalability, with delivery module for end-to-end e-commerce functionality.</li>
+                <li>Implemented real-time order tracking through Google Maps, leading to a 15% boost in user interaction.</li>
+            </ul>
+            <p>Tools: React, FlowBite, Express.js, Google APIs, MongoDB, Docker.</p>
+            <p>GitHub: OETSOETSOETSOETSOETSOETSOETSOETSOETSOETSOETSOETSOETSOETSOETSOETSOETS</p>
+        </div>
+
+        <div class="section-title">
+            <h2>SKILLS</h2>
+        </div>
+
+        <div class="content">
+            <h3>Front-end</h3>
+            <ul>
+                <li>HTML/CSS</li>
+                <li>React.js</li>
+                <li>Next.js</li>
+                <li>Bootstrap</li>
+                <li>Tailwind</li>
+            </ul>
+        </div>
+
+        <div class="content">
+            <h3>Back-End</h3>
+            <ul>
+                <li>Node.js</li>
+                <li>Express.js</li>
+                <li>MongoDB</li>
+                <li>MySQL</li>
+                <li>PHP</li>
+            </ul>
+        </div>
+
+        <div class="content">
+            <h3>Cloud/Devops</h3>
+            <ul>
+                <li>Google Cloud</li>
+                <li>AWS</li>
+                <li>Docker</li>
+                <li>Kubernetes</li>
+                <li>Git/Github Actions</li>
+            </ul>
+        </div>
+
+        <div class="content">
+            <h3>Mobile App Dev</h3>
+            <ul>
+                <li>Flutter</li>
+                <li>React Native</li>
+                <li>Figma</li>
+            </ul>
+        </div>
+
+        <div class="content">
+            <h3>Coding Profiles</h3>
+            <ul>
+                <li>LeetcodeLeetcodeLeetcodeLeetcodeLeetcodeLeetcodeLeetcodeLeetcodeLeetcodeLeetcodeLeetcodeLeetcodeLeetcodeLeetcodeLeetcodeLeetcodeLeetcode</li>
+                <li>CodeChefCodeChefCodeChefCodeChefCodeChefCodeChefCodeChefCodeChefCodeChefCodeChefCodeChefCodeChefCodeChefCodeChefCodeChefCodeChefCodeChef</li>
+                <li>CodeStudioCodeStudioCodeStudioCodeStudioCodeStudioCodeStudioCodeStudioCodeStudioCodeStudioCodeStudioCodeStudioCodeStudioCodeStudioCodeStudioCodeStudioCodeStudioCodeStudio</li>
+                <li>SkillrackSkillrackSkillrackSkillrackSkillrackSkillrackSkillrackSkillrackSkillrackSkillrackSkillrackSkillrackSkillrackSkillrackSkillrackSkillrackSkillrack</li>
+                <li>GeeksForGeeksGeeksForGeeksGeeksForGeeksGeeksForGeeksGeeksForGeeksGeeksForGeeksGeeksForGeeksGeeksForGeeksGeeksForGeeksGeeksForGeeksGeeksForGeeksGeeksForGeeksGeeksForGeeksGeeksForGeeksGeeksForGeeksGeeksForGeeks</li>
+            </ul>
+        </div>
+
+        <div class="section-title">
+            <h2>ACHIEVEMENTS</h2>
+        </div>
+
+        <div class="content">
+            <ul>
+                <li>Led a successful team as Team Leader in the Inter-College Smart India Hackathon, achieving a Finalist position at HackFusion.</li>
+                <li>Elevated college rankings to 19th on GeeksForGeeks and 15th with a rating of 461 on CodeStudio.</li>
+                <li>Mastered over 520 challenges on LeetCode, achieving a remarkable contest rating of 1573.</li>
+                <li>Attained a notable rank of 1375 on CodeChef.</li>
+                <li>Completed a substantial 1685 problems on Skillrack, earning 305 Bronze Medals. View certificate here.</li>
+                <li>Certified in Google Cloud Fundamentals: Core Infrastructure. View certification here.</li>
+                <li>Certified as a UiPath Academy RPA Citizen Developer Foundation. View certification here.</li>
+                <li>Achieved Cisco Certified Network Associate (CCNA) certification. View certification here.</li>
+            </ul>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Pawan Kalyan</p>
+    </footer>
+</body>
+</html>
+```
+
+**Explanation:**
+
+1. **HTML Structure:** The code defines the basic structure of the webpage with sections for header, content, sections, and footer.
+2. **CSS Styling:** The CSS styles the elements to achieve a clean and modern look.
+3. **Animations:** The `@keyframes` rule defines the animation, and the `animation` property applies it to the desired elements.
+4. **Content:** Replace the placeholder text with your actual information.
+5. **Social Links:**  Update the links to your actual social media profiles.
+6. **Image Placeholders:**  Replace the `img` tags with the actual paths to your images.
+
+**To use this code:**
+
+1. **Save:** Save the code as an HTML file (e.g., `index.html`).
+2. **Open:** Open the HTML file in your web browser.
+
+This will create a basic portfolio website with simple animations. You can customize the content, styling, and animations further to create a unique and professional portfolio. 

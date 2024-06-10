@@ -1,0 +1,293 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M Mohammed Zaid - Resume</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>M Mohammed Zaid</h1>
+            <p>career.zaid@gmail.com | +91 75500 56008 | <a href="https://github.com/profzaid007" target="_blank">github.com/profzaid007</a> | <a href="https://linkedin.com/in/mohammedzaidm" target="_blank">linkedin.com/in/mohammedzaidm</a></p>
+        </div>
+        <div class="section">
+            <h2>EDUCATION</h2>
+            <div class="item">
+                <h3>Bachelor of Engineering(B.E) Computer Science</h3>
+                <p>Chennai Institute Of Technology | CGPA: 8.5</p>
+            </div>
+        </div>
+        <div class="section">
+            <h2>PROJECTS</h2>
+            <div class="item">
+                <h3>Auther - NextJS, Prisma, Clerk, ShadcnUI</h3>
+                <ul>
+                    <li>Developing a modular authentication micro-service using Next.js, Auth.js Clerk, and Prisma,with remote PostgreSQL
+                        database (Neon DB), implemented user signup/login and administrative features, with future plans for email
+                        confirmation, password reset, and two-factor authentication, focus is on scalability and production.</li>
+                    <li>Aiming to support up to 1000 users concurrently with performance and reliability.</li>
+                    <li><a href="https://github.com/profzaid007/auth-template" target="_blank">https://github.com/profzaid007/auth-template</a></li>
+                </ul>
+            </div>
+            <div class="item">
+                <h3>ParseCV - NLP, Streamlit, Numpy, Pandas</h3>
+                <ul>
+                    <li>An NLP-powered tool using Streamlit, Numpy, and Pandas to efficiently extract and organize data from resumes into a
+                        structured CSV, within a latent accuracy of 75% in data extraction.</li>
+                    <li>Visualizations such as Word Cloud to streamline resume analysis, enhancing the candidate selection process.</li>
+                    <li><a href="https://github.com/profzaid007/resumedataparser" target="_blank">https://github.com/profzaid007/resumedataparser</a></li>
+                </ul>
+            </div>
+            <div class="item">
+                <h3>Unisys - Drugs awareness platform + ChatBOT, NextJS, Unreal Engine 5, Flask, BlenderBot</h3>
+                <ul>
+                    <li>Developed a drugs awareness platform with an integrated ChatBOT using Next.js, Flask, and BlenderBot</li>
+                    <li>Implemented Facebook distill bot with custom training sets and achieved 80% reduced memory allocation through
+                        efficient input mapping, while maintaining 60% fidelity.</li>
+                    <li><a href="https://github.com/Harish-M-2003/unisys" target="_blank">https://github.com/Harish-M-2003/unisys</a></li>
+                </ul>
+            </div>
+            <div class="item">
+                <h3>PortPDF - NextJS, Ollama, PyPDF2, JSON</h3>
+                <ul>
+                    <li>Trained an LLM (Codellama) on portfolio websites and implemented an API for prompt calls and returns.</li>
+                    <li>Extracted resumes content in .pdf and converted to .json with 80% accuracy using Flask and HuggingFace.</li>
+                    <li>Generated customized portfolio websites based on resume data and themed styles in HTML/CSS and JS.</li>
+                    <li><a href="https://github.com/dirrudra/LLMResume" target="_blank">https://github.com/dirrudra/LLMResume</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="section">
+            <h2>INTERNSHIPS</h2>
+            <div class="item">
+                <h3>Full-Stack Developer - Intern, RPZ Enterprises</h3>
+                <ul>
+                    <li>Led the creation of scalable REST APIs using MVC architecture, PostgreSQL, and ExpressJS</li>
+                    <li>Streamlined web application deployment on Vercel and OnRender platforms, integrating with remote PostgreSQL
+                        databases for improved accessibility by a margin of 45% during deployment.</li>
+                </ul>
+            </div>
+            <div class="item">
+                <h3>Full Stack Developer - Intern, Veeral Enterprises</h3>
+                <ul>
+                    <li>Worked on Static Site Rendering using HTML, CSS, and Bootstrap, resulting in optimized website performance and a
+                        notable 30% reduction in loading time, significantly improving user experience and navigation efficiency.</li>
+                    <li>Implemented a seamless user experience by leveraging Django's MVT framework, integrating forms and an admin
+                        panel into modular templates for dynamic web functionality.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="section">
+            <h2>SKILLS</h2>
+            <div class="skills-container">
+                <div class="skill-column">
+                    <h3>Languages</h3>
+                    <ul>
+                        <li>JAVA</li>
+                        <li>Python</li>
+                        <li>JavaScript</li>
+                        <li>Typescript</li>
+                    </ul>
+                </div>
+                <div class="skill-column">
+                    <h3>AI/ML</h3>
+                    <ul>
+                        <li>Ollama</li>
+                        <li>Stable Diffusion</li>
+                        <li>Streamlit</li>
+                    </ul>
+                </div>
+                <div class="skill-column">
+                    <h3>Web Dev</h3>
+                    <ul>
+                        <li>NodeJS</li>
+                        <li>ExpressJS</li>
+                        <li>Prisma</li>
+                        <li>NextJS</li>
+                        <li>PostgreSQL</li>
+                        <li>Supabase</li>
+                        <li>ReactJS</li>
+                        <li>PicoCSS</li>
+                        <li>TailwindCSS</li>
+                    </ul>
+                </div>
+                <div class="skill-column">
+                    <h3>Miscellaneous</h3>
+                    <ul>
+                        <li>Linux</li>
+                        <li>PocketBase</li>
+                        <li>Blender</li>
+                        <li>MongoDB</li>
+                        <li>Bootstrap</li>
+                        <li>Sanity CMS</li>
+                        <li>VIM</li>
+                        <li>DaisyUI</li>
+                        <li>ShadcnUI</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <h2>COMPETITIVE CODING</h2>
+            <div class="item">
+                <h3>LeetCode</h3>
+                <ul>
+                    <li>Secured Top 70.93% Contest Rating 1429 and Solved 527 problems - <a href="https://leetcode.com/u/Zaidi007" target="_blank">leetcode.com/u/Zaidi007</a></li>
+                </ul>
+            </div>
+            <div class="item">
+                <h3>CodeChef</h3>
+                <ul>
+                    <li>Secured Contest Rating of 1391 with Global Rank of 48366 - <a href="https://www.codechef.com/users/codezaidprof" target="_blank">codechef.com/users/codezaidprof</a></li>
+                </ul>
+            </div>
+            <div class="item">
+                <h3>CodeForces</h3>
+                <ul>
+                    <li>Secured Contest Rating of 922 with 60+ submissions B - <a href="https://codeforces.com/profile/zaid007" target="_blank">codeforces.com/profile/zaid007</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="section">
+            <h2>CERTIFICATIONS</h2>
+            <ul>
+                <li>Back-End Apps with Node.js and Express (IBM)</li>
+                <li>Web Development with HTML, CSS, JavaScript (IBM)</li>
+                <li>Introduction to Cloud Computing (IBM)</li>
+                <li>Front-End Apps with React (IBM)</li>
+                <li>CCNA v1 & CCNA v2 CyberSecurity Training [CISCO]</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>ACHIEVEMENTS</h2>
+            <div class="item">
+                <h3>Smart India Hackathon 2023 - Winner, SIH 1411 - Ministry of Home Affairs</h3>
+                <ul>
+                    <li>Developed an VR simulation system using Unreal Engine 5 and Blender, addressing counter hijacking systems and air
+                        marshal operations, endorsed by the Ministry of Home Affairs. Role:3D Blender Modeller</li>
+                </ul>
+            </div>
+            <div class="item">
+                <h3>Analysis of Time and Space Complexity of Array, Linked List and Linked Array(hybrid) in Linear Search
+                    Operation - Research Paper, <a href="https://ieeexplore.ieee.org/document/10028872" target="_blank">https://ieeexplore.ieee.org/document/10028872</a></h3>
+                <ul>
+                    <li>Conducted a comprehensive analysis comparing time and space complexities of linear search operations across array,
+                        linked list, and the pioneering Linked Array structure, showcasing its nature and performance.</li>
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+</body>
+</html>
+```
+
+```css
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    width: 80%;
+    max-width: 900px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 1.8em;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-size: 1.4em;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 40px;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.item {
+    border-left: 3px solid #eee;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.skill-column {
+    flex: 0 0 25%;
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 95%;
+    }
+
+    .skills-container {
+        flex-direction: column;
+    }
+
+    .skill-column {
+        flex: 0 0 100%;
+    }
+}
+```
