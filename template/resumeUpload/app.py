@@ -22,7 +22,7 @@ app.config['SAVED_TEXTS_FOLDER'] = SAVED_TEXTS_FOLDER
 
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
-# genai.configure(api_key="AIzaSyDq24IX22APnfwraBYjvxK5znvqTsT1L2o")
+
 
 generation_config = {
     "temperature": 1,
